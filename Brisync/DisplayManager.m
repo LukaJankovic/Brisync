@@ -102,7 +102,6 @@ NSString *DisplayGetDescription(CGDirectDisplayID display, UInt8 type) {
     if (!DDCWrite(display, &command)){
         NSLog(@"E: Failed to send DDC command!");
     }
-    
 }
 
 @end

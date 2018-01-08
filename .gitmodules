@@ -1,3 +1,3 @@
 [submodule "ddcctl"]
 	path = ddcctl
-	url = git@github.com:kfix/ddcctl.git
+	url = git://github.com/kfix/ddcctl
